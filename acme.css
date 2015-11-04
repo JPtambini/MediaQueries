@@ -1,0 +1,64 @@
+@media (min-width: 401px){
+ul li {
+	display:inline-block;
+	font-size: 25px;
+	padding-top: 53px;
+	padding-left: 0px;
+	margin-left: 75px;
+}
+#navbar{
+	float:right;
+	margin-right: 45px
+}
+
+ul{
+	padding-left: 0px;
+	
+}
+a,#botpar{
+	color:gray;
+}
+#anvil{
+	width:100%;
+}
+h3{
+	font-family: "Courier New" ;
+}
+}
+@media (max-width: 400px){
+#anvil{
+	display:none;
+}
+ul{
+	font-size: 30px;
+	text-decoration:none;
+	list-style-type: none;
+	padding-left: 10px;
+}
+
+li a{
+	color:gray;
+}
+.col-md-5 {
+	margin-left: 10px ;
+	margin-right: 10px;
+}
+h3	{
+	font-size: 34px;
+	color:gray;	
+}
+img	{
+	margin-left: 10px;
+	width:60%;
+}
+.col-md-1{
+	display:none;
+}
+p{
+	color:gray;
+}
+}
+/*.row{
+	background-color: blue;
+	border:solid black;
+}*/
